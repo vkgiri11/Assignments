@@ -1,0 +1,23 @@
+[
+    {
+      "employeName": "TeSt1",
+      "checkinTime": "9:00",
+      "checkouttime": "14:00",
+      "date": "2022-03-01",
+      "dept": ""
+    },
+    {
+      "employeName": "Test2",
+      "checkinTime": "00:00",
+      "checkouttime": "11:00",
+      "date": "2022-03-01",
+      "dept": "Dev"
+    },
+    {
+      "employeName": "Test3",
+      "checkinTime": "00:00",
+      "checkouttime": "14:00",
+      "date": "2022-03-01",
+      "dept": "Finance"
+    }
+]
